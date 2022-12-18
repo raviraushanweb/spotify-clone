@@ -1,5 +1,8 @@
 # Spotify Clone
 
+Try it here: [Spotify Clone](https://raviraushan-spotify-clone.netlify.app/)
+![Spotify Clone](https://i.ibb.co/w7TJDMh/Git-Hub-Spotify-Clone-React-JS-1.png)
+
 ## System Requirements
 
 To get started with development, you need to install few tools
@@ -73,3 +76,11 @@ To set up a development environment, please follow these steps:
 ## Geo Location API
 
     website: [geo.ipify.org](https://geo.ipify.org/subscriptions)
+
+## Preview
+
+![Spotify Clone](https://i.ibb.co/w7TJDMh/Git-Hub-Spotify-Clone-React-JS-1.png)
+![Spotify Clone](https://i.ibb.co/f0Jr53C/Git-Hub-Spotify-Clone-React-JS-2.png)
+![Spotify Clone](https://i.ibb.co/zbTJjm4/Git-Hub-Spotify-Clone-React-JS-3.png)
+![Spotify Clone](https://i.ibb.co/4Pdb6kw/Git-Hub-Spotify-Clone-React-JS-4.png)
+![Spotify Clone](https://i.ibb.co/7CKPj2S/Git-Hub-Spotify-Clone-React-JS-5.png)

@@ -44,7 +44,7 @@ const Sidebar = () => {
 					alt='logo'
 					className='w-full h-14 object-contain'
 				/>
-				<NavLink />
+				<NavLinks />
 			</div>
 
 			{/* Mobile Menu */}
